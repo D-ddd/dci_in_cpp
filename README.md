@@ -1,2 +1,3 @@
-# gtest_use_demo
-a very simple demo used google-test
+# dci_in_cpp
+A implementation of the dci example from MagicBowen. 
+ref: https://www.jianshu.com/p/bb9c35606d29
